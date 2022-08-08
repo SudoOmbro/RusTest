@@ -1,0 +1,2 @@
+# RusTest
+just testing Rust
