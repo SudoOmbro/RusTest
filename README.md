@@ -4,7 +4,7 @@ My first rust project to test out the language. It's a sort of database with imp
 
 ## Goals
 
-- Base Rust setup (cargo compiler + VS Code extension).
+- Base Rust setup (cargo compiler + VS Code extension + GIT).
 - Learn Rust basics (syntax, borrowing, standard library, modules, etc...).
 - Learn how to make a CLI.
 - Learn how to do OOP.
